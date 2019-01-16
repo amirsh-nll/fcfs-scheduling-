@@ -1,4 +1,4 @@
-# fcfs-scheduling-
+# fcfs-scheduling
 First come, first served cpu scheduling in java
 
 **About First come, first served : ([wikipedia](https://en.wikipedia.org/wiki/Scheduling_(computing)#First_come,_first_served))**
